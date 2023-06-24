@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;MSP-EXP430FR5969_Grlib_Example_Sharp128/driverlib&apos;" deleteContents="false" description="Delete resource &apos;MSP-EXP430FR5969_Grlib_Example_Sharp128/driverlib&apos;" element1="/MSP-EXP430FR5969_Grlib_Example_Sharp128/driverlib" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1687489707661"/>
+</session>
